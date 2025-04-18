@@ -1,0 +1,114 @@
+{
+  "studentData": [
+    {
+      "id": "2",
+      "student_id": "S002",
+      "name": "李阿斯蒂芬",
+      "gender": "女",
+      "birth_date": "2001-05-20",
+      "contact_phone": "13800138002",
+      "contact_email": "lisi@example.com",
+      "address": "上海市浦东新区"
+    },
+    {
+      "id": "3",
+      "student_id": "S003",
+      "name": "王五",
+      "gender": "男",
+      "birth_date": "1999-11-08",
+      "contact_phone": "13800138003",
+      "contact_email": "wangwu@example.com",
+      "address": "广州市天河区"
+    },
+    {
+      "id": "4",
+      "student_id": "S004",
+      "name": "赵六",
+      "gender": "女",
+      "birth_date": "2000-08-25",
+      "contact_phone": "13800138004",
+      "contact_email": "zhaoliu@example.com",
+      "address": "深圳市南山区"
+    },
+    {
+      "id": "5",
+      "student_id": "S005",
+      "name": "钱七",
+      "gender": "男",
+      "birth_date": "2001-03-12",
+      "contact_phone": "13800138005",
+      "contact_email": "qianqi@example.com",
+      "address": "杭州市西湖区"
+    },
+    {
+      "id": "6",
+      "student_id": "S006",
+      "name": "孙八",
+      "gender": "女",
+      "birth_date": "2000-07-30",
+      "contact_phone": "13800138006",
+      "contact_email": "sunba@example.com",
+      "address": "成都市武侯区"
+    },
+    {
+      "id": "b688",
+      "student_id": "1",
+      "name": "阿达",
+      "gender": "女",
+      "birth_date": "2025-04-25",
+      "contact_phone": "1",
+      "contact_email": "1",
+      "address": "1"
+    },
+    {
+      "id": "a34b",
+      "student_id": "7",
+      "name": "名",
+      "gender": "其他",
+      "birth_date": "2025-04-15",
+      "contact_phone": "845260",
+      "contact_email": "1725766419@qq.com",
+      "address": "1111"
+    },
+    {
+      "id": "18f8",
+      "student_id": "11",
+      "name": "",
+      "gender": "",
+      "birth_date": "",
+      "contact_phone": "",
+      "contact_email": "",
+      "address": ""
+    },
+    {
+      "id": "045c",
+      "student_id": "1",
+      "name": "1",
+      "gender": "女",
+      "birth_date": "2025-04-01",
+      "contact_phone": "1",
+      "contact_email": "1",
+      "address": "1"
+    },
+    {
+      "id": "7958",
+      "student_id": "1",
+      "name": "1",
+      "gender": "Male",
+      "birth_date": "2025-04-09",
+      "contact_phone": "15203048471",
+      "contact_email": "3119163101@qq.com",
+      "address": "111"
+    },
+    {
+      "id": "f595",
+      "student_id": "12",
+      "name": "af",
+      "gender": "Male",
+      "birth_date": "2025-04-02",
+      "contact_phone": "asf",
+      "contact_email": "adf",
+      "address": "asf"
+    }
+  ]
+}
